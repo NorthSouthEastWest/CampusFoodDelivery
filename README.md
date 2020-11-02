@@ -2,51 +2,51 @@
 
 
 
-#Shawn O'Hara
+##Shawn O'Hara
 
-#Introduction
-
-
-
-
-#Use Case for Rating System
+###Introduction
 
 
 
 
-
-#Business Rules
+###Use Case for Rating System
 
 
 
 
 
-#EERD
+###Business Rules
 
 
 
 
 
-
-
-#MySQL Queries
+###EERD
 
 
 
 
 
 
-#Stored Procedure 
 
-
-
-
-#MySQL Dump
+###MySQL Queries
 
 
 
 
 
 
-#PPT Video
+###Stored Procedure 
+
+
+
+
+###MySQL Dump
+
+
+
+
+
+
+###PPT Video
 
